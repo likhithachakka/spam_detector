@@ -1,0 +1,7 @@
+{
+  "name": "SentinelSpam - AI Spam & Phishing Classifier",
+  "description": "Multi-engine spam and threat classifier featuring statistical Naive Bayes, heuristic security rules, and Gemini AI deep forensic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
